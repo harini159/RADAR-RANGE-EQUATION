@@ -47,6 +47,11 @@ plt.legend()
 plt.tight_layout() 
 plt.show()
 ```
+TABULATION:
+
+<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/fd39ef6f-a7a3-4ca8-b6be-f98bbf0b891f" />
+
+
 OUTPUT:
 
 <img width="785" height="715" alt="image" src="https://github.com/user-attachments/assets/0738c125-c078-4ef6-aefa-4d632423611c" />
